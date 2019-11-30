@@ -1,0 +1,16 @@
+.productsSection{
+    padding: 4vw;
+    text-align: center;
+    background-color: #BBB;
+    color: #00261c;
+}
+
+.productsSection h1{
+    font-size: 3vw;
+}
+
+.cardContainer{
+    display: flex;
+    justify-content: space-between;
+    margin: 8vw 0 8vw 0;
+}

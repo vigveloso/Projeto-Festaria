@@ -1,0 +1,28 @@
+.banner{
+    height: 100vh;
+    overflow: hidden; /*Não deixa que a foto transborde/passe do tamanho da div*/
+}
+
+.imagebanner{
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+
+.textbanner{
+    top: 20vw;
+    left: 25vw;
+    width: 45%;
+    height: 40%;
+    position: absolute;
+    background-color: #fffc;
+    border-radius: 1vw;
+    text-align: center;
+    justify-content: center;
+}
+
+h2{
+    margin-top: 7vw;
+    font-size: 2.5vw;
+}

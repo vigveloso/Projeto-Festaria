@@ -1,0 +1,23 @@
+.cardProduct{
+    width: 30%;
+    height: 35vw;
+    border: solid .05vw #aaa;
+    border-radius: 2vw;
+    background-color: #fffc;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.cardTitle{
+    padding: 1vw;  
+    font-size: 1.75vw;  
+}
+
+.imageProduct{
+    width: 95%;
+    height: 50%;
+    align-self: center;
+    border-radius: 0.7vw;
+
+}
